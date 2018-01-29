@@ -6,10 +6,10 @@ Process of grouping-
 Natural Language Processing - text classification based on content, text preprocessing : Lemmatization,
 Document Clustering using bisecting K-means algorithm.
 
-![Screenshot](https://www.github.com/soc3/TabORanger/tabOranger.png)
+![Screenshot]('https://github.com/abhinav23dixit/Tab-Arranger/blob/master/tabOranger.png')
 
 
-#API used :
+API used :
 meaningcloud
 
 Tools Used-
