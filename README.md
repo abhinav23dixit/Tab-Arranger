@@ -11,16 +11,3 @@ API used : meaningcloud
 Html, Css, Javascript
 Netbeans (IDE)
 
-TabORanger/tabOranger.png
-
-![Screenshot](https://www.github.com/soc3/TabORanger/tabOranger.png)
-
-
-Team Name: Illuminati
-
-Team Members:
-
-Sushant Oberoi
-Abhinav Dixit
-Vaibhav Bharadwaj
-Arpit Gupta
